@@ -4,6 +4,7 @@ go 1.26
 
 require (
 	cloud.google.com/go/compute/metadata v0.9.0
+	cloud.google.com/go/firestore v1.25.0
 	cloud.google.com/go/servicedirectory v1.17.0
 	cloud.google.com/go/storage v1.64.0
 	github.com/aws/aws-sdk-go-v2 v1.43.4
@@ -25,7 +26,6 @@ require (
 	cloud.google.com/go v0.123.0 // indirect
 	cloud.google.com/go/auth v0.23.0 // indirect
 	cloud.google.com/go/auth/oauth2adapt v0.2.8 // indirect
-	cloud.google.com/go/firestore v1.25.0 // indirect
 	cloud.google.com/go/iam v1.11.0 // indirect
 	cloud.google.com/go/longrunning v1.2.0 // indirect
 	cloud.google.com/go/monitoring v1.29.0 // indirect
